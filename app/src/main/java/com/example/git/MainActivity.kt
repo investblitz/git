@@ -8,5 +8,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //adicionei metoda A
+
+        // add method B
+
+        // ADD METHOD C
     }
 }
