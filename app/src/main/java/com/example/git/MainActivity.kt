@@ -8,13 +8,12 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Toast.makeText( context: this, R.string.welcome, Toast.LENGH_SHORT).show()
-
+        Toast.makeText( this, R.string.Welcome, Toast.LENGTH_SHORT).show()
+    }
+}
         /*
         adicionei metoda A.
         add method B
         ADD METHOD C
         */
 
-    }
-}
