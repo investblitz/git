@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText( context: this, R.string.welcome, Toast.LENGH_SHORT).show()
 
         /*
-        adicionei metoda A
+        adicionei metoda A.
         add method B
         ADD METHOD C
         */
