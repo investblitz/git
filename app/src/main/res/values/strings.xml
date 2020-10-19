@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">git</string>
-    <string name="Welcome" translatable="false">Welcome to the App</string>
+    <string name="Welcome">Welcome to the App</string>
 </resources>
